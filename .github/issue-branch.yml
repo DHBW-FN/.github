@@ -1,11 +1,12 @@
 mode: auto
 
-branchName: '${issue.number}-${issue.title[0,64],}'
+branchName: 'i${issue.number}-${issue.title[0,64],}'
 
 gitSafeReplacementChar: '-'
 
 defaultBranch: 'develop'
 
+silent: true
 autoCloseIssue: true
 
 branches:
