@@ -7,7 +7,7 @@ gitSafeReplacementChar: '-'
 defaultBranch: 'develop'
 
 silent: true
-autoCloseIssue: false
+autoCloseIssue: true
 
 branches:
   - label:
