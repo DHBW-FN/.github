@@ -2,8 +2,6 @@
 
 # DHBW-FN
 
-![Discord](https://img.shields.io/badge/%3CTI21%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
 ### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
