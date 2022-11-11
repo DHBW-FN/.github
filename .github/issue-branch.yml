@@ -24,7 +24,7 @@ branches:
     prefix: bugfix/
     prTarget: develop
   - label:
-      - feature
+      - enhancement
     name: develop
     prefix: feature/
     prTarget: develop
