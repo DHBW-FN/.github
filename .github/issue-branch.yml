@@ -20,7 +20,6 @@ branches:
       - develop
   - label:
       - bug
-      - develop
     name: develop
     prefix: bugfix/
     prTarget: develop
