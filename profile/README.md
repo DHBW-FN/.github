@@ -7,8 +7,8 @@ The purpose of this organization is to allow DHBW-FN students to work together o
 
 ## Membership
 All DHBW-FN students are welcome to join this organization. If you are interested in joining, please send a request through GitHub.
-We ask that all members respect each other and follow the guidelines set forth in the [Code of Conduct](../CODE_OF_CONDUCT.md) file.
+We ask that all members respect each other and follow the guidelines set forth in the [Code of Conduct](https://github.com/DHBW-FN/.github/blob/main/CODE_OF_CONDUCT.md) file.
 
 ## Contribution
 We welcome contributions from everyone.
-If you would like to contribute to a project, please make sure to read the [Contributing](../CONTRIBUTING.md) file and follow the guidelines for contributing.
+If you would like to contribute to a project, please make sure to read the [Contributing](https://github.com/DHBW-FN/.github/blob/main/CONTRIBUTING.md) file and follow the guidelines for contributing.
