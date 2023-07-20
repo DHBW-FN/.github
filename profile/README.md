@@ -1,4 +1,5 @@
-![Logo](https://elearning.dhbw-ravensburg.de/pluginfile.php/1/theme_lambda/logo/1627904206/DHBW_Logo%20lang.png)
+![Logo](https://github.com/DHBW-FN/.github/assets/26843910/259c0db3-f190-46f3-8db4-d0e3023a3011)
+
 # Hi 👋, We're [DHBW-FN](https://github.com/DHBW-FN)
 ### The unofficial organization for everything DHBW Friedrichshafen
 
